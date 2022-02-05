@@ -182,3 +182,8 @@ function functionWithArgs(a,b)
   console.log(a+b);
 }
 functionWithArgs(1,2)
+function timesFive(a)
+{
+  return a*5;
+}
+const answer = timesFive(5);
