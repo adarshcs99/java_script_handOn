@@ -172,3 +172,8 @@ myArray.shift();
 myArray.unshift(["Paul", 35]);
 // Only change code below this line
 const myList = [["adrsh",10],["adrsh",10],["adrsh",10],["adrsh",10],["adrsh",10]];
+function reusableFunction()
+{
+  console.log("Hi World");
+}
+reusableFunction()
