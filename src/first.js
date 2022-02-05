@@ -138,3 +138,5 @@ const wordBlanks = myNoun +" "+ myAdjective +" "+ myVerb +" "+ myAdverb; // Chan
 // Only change code above this line
 // Only change code below this line
 const myArray = ["aadrsh"];
+// Only change code below this line
+const myArray = [["Bulls", 23], ["White Sox", 45]];
