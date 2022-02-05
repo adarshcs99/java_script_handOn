@@ -140,3 +140,5 @@ const wordBlanks = myNoun +" "+ myAdjective +" "+ myVerb +" "+ myAdverb; // Chan
 const myArray = ["aadrsh"];
 // Only change code below this line
 const myArray = [["Bulls", 23], ["White Sox", 45]];
+const myArray = [50, 60, 70];
+let myData  = myArray[0];
