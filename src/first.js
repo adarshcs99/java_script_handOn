@@ -162,3 +162,7 @@ myArray.push(["dog", 3]);
 const myArray = [["John", 23], ["cat", 2]];
 const removedFromMyArray = myArray.pop();
 // Only change code below this line
+// Setup
+const myArray = [["John", 23], ["dog", 3]];
+let removedFromMyArray = myArray.shift();
+// Only change code below this line
