@@ -15,3 +15,5 @@ var b;
 b=7;
 b=a;
 var a = 9;
+var myFirstName = "your name";
+var myLastName = "your name";
