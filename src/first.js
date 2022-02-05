@@ -58,4 +58,11 @@ const myDecimal = 5.7;
 const product = 5.0 * 1.0;
 const quotient = 4.4 / 2; // Change this line
 const remainder = 5%3;
+let a = 11;
+let b = 9;
+let c = 3;
 
+// Only change code below this line
+a-= 6;
+b-= 15;
+c-= 1;
