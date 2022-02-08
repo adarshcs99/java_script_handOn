@@ -346,3 +346,43 @@ function testStrictNotEqual(val) {
   }
   
   testGreaterThan(10);
+  function testGreaterOrEqual(val) {
+    if (val >= 20) {  // Change this line
+      return "20 or Over";
+    }
+  
+    if (val >= 10) {  // Change this line
+      return "10 or Over";
+    }
+  
+    return "9 or Under";
+  }
+  
+  // Change this value to test
+  testGreaterOrEqual(10);
+  function testLessThan(val) {
+    if (val < 25) {  // Change this line
+      return "Under 25";
+    }
+  
+    if (val < 55) {  // Change this line
+      return "Under 55";
+    }
+  
+    return "55 or Over";
+  }
+  
+  // Change this value to t
+  function testLessThan(val) {
+    if (val<25) {  // Change this line
+      return "Under 25";
+    }
+  
+    if (val<55) {  // Change this line
+      return "Under 55";
+    }
+  
+    return "55 or Over";
+  }
+  
+  testLessThan(10);
